@@ -1,0 +1,72 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="30">
+            <item index="0" class="java.lang.String" itemvalue="beautifulsoup4" />
+            <item index="1" class="java.lang.String" itemvalue="mkl-fft" />
+            <item index="2" class="java.lang.String" itemvalue="pandas" />
+            <item index="3" class="java.lang.String" itemvalue="six" />
+            <item index="4" class="java.lang.String" itemvalue="asn1crypto" />
+            <item index="5" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="6" class="java.lang.String" itemvalue="python-dotenv" />
+            <item index="7" class="java.lang.String" itemvalue="numpy" />
+            <item index="8" class="java.lang.String" itemvalue="bs4" />
+            <item index="9" class="java.lang.String" itemvalue="lxml" />
+            <item index="10" class="java.lang.String" itemvalue="soupsieve" />
+            <item index="11" class="java.lang.String" itemvalue="requests" />
+            <item index="12" class="java.lang.String" itemvalue="urllib3" />
+            <item index="13" class="java.lang.String" itemvalue="idna" />
+            <item index="14" class="java.lang.String" itemvalue="google-pasta" />
+            <item index="15" class="java.lang.String" itemvalue="opt-einsum" />
+            <item index="16" class="java.lang.String" itemvalue="h5py" />
+            <item index="17" class="java.lang.String" itemvalue="wrapt" />
+            <item index="18" class="java.lang.String" itemvalue="astor" />
+            <item index="19" class="java.lang.String" itemvalue="PyQt5-sip" />
+            <item index="20" class="java.lang.String" itemvalue="pycparser" />
+            <item index="21" class="java.lang.String" itemvalue="click" />
+            <item index="22" class="java.lang.String" itemvalue="PyQtWebEngine" />
+            <item index="23" class="java.lang.String" itemvalue="requests-oauthlib" />
+            <item index="24" class="java.lang.String" itemvalue="PyQt5" />
+            <item index="25" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="26" class="java.lang.String" itemvalue="oauthlib" />
+            <item index="27" class="java.lang.String" itemvalue="Markdown" />
+            <item index="28" class="java.lang.String" itemvalue="google-auth" />
+            <item index="29" class="java.lang.String" itemvalue="certifi" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N813" />
+          <option value="N803" />
+          <option value="N802" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="packages.Acquisition.load_data" />
+          <option value="packages.Acquisition.load_binary" />
+          <option value="packages.Acquisition.save_binary" />
+          <option value="packages.Acquisition.shuffle_data" />
+          <option value="packages.Wrangling.prep_data" />
+          <option value="packages.Model.model_setup" />
+          <option value="packages.Model.save_model" />
+          <option value="packages.Model.load_model" />
+          <option value="packages.Model.load_model_h5" />
+          <option value="packages.Model.save_model_h5" />
+          <option value="packages.Model.prediction" />
+          <option value="packages.Wrangling.shuffle_data" />
+          <option value="packages.Model.model_performance" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
